@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Estudando **Engenharia Elétrica** em IFSUL.
 - 🎓 &nbsp; Estudando **Engenharia da Computação** em DESCOMPLICA.
 - 💼 &nbsp; Trabalhando no setor de **Engenharia de Manufatura** em John Deere.
-- 🌱 &nbsp; Aprendendo mais sobre ¨**Python, SQL e Spark.
+- 🌱 &nbsp; Aprendendo mais sobre ¨**Python, SQL e Spark**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
